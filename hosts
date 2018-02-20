@@ -1,2 +1,5 @@
 [hostB]
 10.247.250.24
+
+[hostB:vars]
+ansible_password=root
